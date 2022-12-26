@@ -46,6 +46,9 @@ Personal implementations for the most common design patterns using the python la
 ### Memento
 ### Null Object
 ### Observer
+#### Example 1
+- [Pattern Implementation Example](/behavioral-patterns/observer/example1/observer.py)
+- [Pattern Use Example](/behavioral-patterns/observer/example1/main.py)
 ### Publisher-Subscriber
 ### State
 - [Pattern Implementation Example](behavioral-patterns/state/example1/state.py)
